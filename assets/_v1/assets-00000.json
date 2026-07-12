@@ -6,13 +6,13 @@
       "name": "BedCorner M01",
       "id_type": "OBJECT",
       "files": [
-        "Furniture_Bed_Corner M01.blend"
+        "Furniture_Bed_Corner_M01.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Furniture_Bed_Corner%20M01_thumbnails/Object/bedcorner-m01.webp",
+        "url": "Furniture_Bed_Corner_M01_thumbnails/Object/bedcorner-m01.webp",
         "hash": "SHA256:37f471fa41e2c95b8beecfe3325753df2fd879cd910aeb5f32bfdddfc9827817"
       },
       "meta": {
@@ -153,11 +153,10 @@
   ],
   "files": [
     {
-      "path": "Furniture_Bed_Corner M01.blend",
+      "path": "Furniture_Bed_Corner_M01.blend",
       "size_in_bytes": 27925772,
       "hash": "SHA256:34a7a5d66083a18d6e691365ec84842dd0600514c0557f4000e7537236695290",
-      "blender_version": "5.2.44",
-      "url": "Furniture_Bed_Corner%20M01.blend"
+      "blender_version": "5.2.44"
     },
     {
       "path": "Furniture_Coffee_Machine_Delonghi_La_Specialista.blend",
