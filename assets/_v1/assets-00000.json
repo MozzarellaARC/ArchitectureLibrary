@@ -1,0 +1,181 @@
+{
+  "asset_count": 5,
+  "file_count": 4,
+  "assets": [
+    {
+      "name": "BedCorner M01",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture_Bed_Corner M01.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture_Bed_Corner%20M01_thumbnails/Object/bedcorner-m01.webp",
+        "hash": "SHA256:37f471fa41e2c95b8beecfe3325753df2fd879cd910aeb5f32bfdddfc9827817"
+      },
+      "meta": {
+        "tags": [
+          "Furniture",
+          "Bed"
+        ],
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.7339978218078613,
+              2.283413887023926,
+              1.4063034057617188
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Coffee Cup M01",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture_Coffee_Machine_Delonghi_La_Specialista.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture_Coffee_Machine_Delonghi_La_Specialista_thumbnails/Object/coffee-cup-m01.webp",
+        "hash": "SHA256:2c5c3779d92276365b3f2fc41dbc5154fb3a2122e00a22cc2b4c3e38d6f85a56"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.08410066366195679,
+              0.06895110011100769,
+              0.051871247589588165
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Delonghi La Specialista",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture_Coffee_Machine_Delonghi_La_Specialista.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture_Coffee_Machine_Delonghi_La_Specialista_thumbnails/Object/delonghi-la-specialista.webp",
+        "hash": "SHA256:70ddcd3abaf76bc9c4addbaa550e6e9c6ade7d2a6ad090124b8d2c584ff35a38"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.4124097228050232,
+              0.4841952621936798,
+              0.4487597346305847
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Banana Pot B13",
+      "id_type": "OBJECT",
+      "files": [
+        "Vegetation_Banana_Pot_B13.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Vegetation_Banana_Pot_B13_thumbnails/Object/banana-pot-b13.webp",
+        "hash": "SHA256:42f1a679cda4b5cf9b7cf62acbb7ab28d9b233e99cc7284c971a09d98c45c96e"
+      },
+      "meta": {
+        "tags": [
+          "Vegetation",
+          "House Plant"
+        ],
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.2431297302246094,
+              1.8638137578964233,
+              2.950355291366577
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Monstera B01.3",
+      "id_type": "OBJECT",
+      "files": [
+        "Vegetation_Monstera_B01.3.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Vegetation_Monstera_B01.3_thumbnails/Object/monstera-b013.webp",
+        "hash": "SHA256:bc3563831fe08b5b82b76187af02ff1d856e939631cd1d07fea514173e29591e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.611331820487976,
+              1.5022486448287964,
+              2.4552907943725586
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Furniture_Bed_Corner M01.blend",
+      "size_in_bytes": 27925772,
+      "hash": "SHA256:34a7a5d66083a18d6e691365ec84842dd0600514c0557f4000e7537236695290",
+      "blender_version": "5.2.44",
+      "url": "Furniture_Bed_Corner%20M01.blend"
+    },
+    {
+      "path": "Furniture_Coffee_Machine_Delonghi_La_Specialista.blend",
+      "size_in_bytes": 19238003,
+      "hash": "SHA256:78896d29007273f54262afe9e821175c81fa764cb61a1fa8a03f7acdb6ff0c4f",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Vegetation_Banana_Pot_B13.blend",
+      "size_in_bytes": 10281985,
+      "hash": "SHA256:fd19bfd0c29cf4f93deb47a6ae03eae58b8de2685426d7ce0b070357504fb3be",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Vegetation_Monstera_B01.3.blend",
+      "size_in_bytes": 217139759,
+      "hash": "SHA256:7b2db76e9bdd7ebabfe9970394bd3a66a4186bb512c24c2db08268b0efb78ceb",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
